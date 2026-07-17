@@ -100,5 +100,3 @@ psycopg2
 - Microsoft Power BI
 
 ---
-
-This project is intended for educational and portfolio purposes.
